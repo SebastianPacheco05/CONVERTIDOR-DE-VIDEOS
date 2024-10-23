@@ -1,1 +1,1 @@
-Directorio donde se colocan los videos a convertir
+Directorio donde se colocan los videos WEBM para convertir a MP4

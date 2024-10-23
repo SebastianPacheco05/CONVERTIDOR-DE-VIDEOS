@@ -1,1 +1,1 @@
-Directorio donde se colocan los videos convertidos
+Directorio donde llegan los videos convertidos
