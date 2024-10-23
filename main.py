@@ -1,9 +1,4 @@
-# pip install moviepy
-# pip install pytube
-
 import os
-from pytube import YouTube
-import shutil
 from moviepy.editor import VideoFileClip
 
 
